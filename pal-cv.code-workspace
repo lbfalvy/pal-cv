@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"[html]": {
+			"editor.wordWrap": "bounded",
+			"editor.wordWrapColumn": 80
+		}
+	},
+	"extensions": {
+		"recommendations": [
+			"yandeu.five-server"
+		]
+	}
+}
